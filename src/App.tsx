@@ -1,6 +1,10 @@
+import Router from './routes/router'
+
 function App() {
   return (
-    <h1>Hello World!</h1>
+    <>
+      <Router />
+    </>
   )
 }
 
