@@ -1,0 +1,9 @@
+# <type>(<scope>): <subject>
+#
+# <type>: The type of change being made (e.g., feat, fix, docs, style, refactor, test, chore)
+# <scope>: The scope of the change (e.g., component or file name)
+# <subject>: A brief description of the change
+#
+# Body (optional): A detailed description of the change
+#
+# Footer (optional): Any extra information or references (e.g., "Closes #123")
